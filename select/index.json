@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "拍手喝采歌合",
+  "base_artist": "supercell",
+  "createdAt": "2026-01-11T07:44:41.479215Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hakushu Kassai Utaawase [拍手喝采歌合]",
+      "artist": "supercell",
+      "has_synced": true,
+      "path": "select/01_Hakushu_Kassai_Utaawase_[拍手喝采歌合]_supercell.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hakushu Kassai Utaawase [拍手喝采歌合]",
+      "artist": "supercell",
+      "has_synced": true,
+      "path": "select/02_Hakushu_Kassai_Utaawase_[拍手喝采歌合]_supercell.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "拍手喝采歌合",
+      "artist": "supercell",
+      "has_synced": true,
+      "path": "select/03_拍手喝采歌合_supercell.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "拍手喝采歌合",
+      "artist": "supercell",
+      "has_synced": true,
+      "path": "select/04_拍手喝采歌合_supercell.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "拍手喝采歌合 (TV Edit)",
+      "artist": "supercell",
+      "has_synced": true,
+      "path": "select/05_拍手喝采歌合_(TV_Edit)_supercell.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "拍手喝采歌合",
+      "artist": "supercell",
+      "has_synced": true,
+      "path": "select/06_拍手喝采歌合_supercell.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "拍手喝采歌合",
+      "artist": "supercell",
+      "has_synced": true,
+      "path": "select/07_拍手喝采歌合_supercell.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "拍手喝采歌合 (TV Edit)",
+      "artist": "supercell",
+      "has_synced": true,
+      "path": "select/08_拍手喝采歌合_(TV_Edit)_supercell.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "拍手喝采歌合",
+      "artist": "supercell",
+      "has_synced": false,
+      "path": "select/pl_01_拍手喝采歌合_supercell.txt"
+    }
+  ]
+}
